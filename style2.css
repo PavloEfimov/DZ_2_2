@@ -1,0 +1,44 @@
+body {
+	background: white;
+	width: 315px;
+	height: auto;
+	padding: 8px;
+}
+
+.add-two-txt{
+	
+	border: 1px solid grey;
+	background-color: white;
+	padding: 8px;
+	height: auto;
+}
+
+
+/*стиль заголовка,класс применил, чтобы не трогать н2 в пятом задании*/
+
+.header-two{
+	color: white;
+	height: 30px;
+	width: 100px;
+	background-color: red;
+	margin-top: 7px;
+}
+
+/*вынес общий стиль, чтобы единый подход был*/
+
+.first{
+	background-color: #0f2987;
+	height: 50px;
+	}
+.second{
+	height: 40px;
+	background-color: yellow;
+}
+
+.first, .second{
+	width: 300px;
+}
+
+hr{
+	width: 304px;
+	margin: 0px;
